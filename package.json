@@ -1,0 +1,16 @@
+{
+  "name": "products",
+  "version": "1.0.0",
+  "description": "compare prices of products on different e-commerce websites",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "riya",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "puppeteer": "^1.18.1"
+  }
+}
